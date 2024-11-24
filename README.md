@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/music-classifier-recommender.git](https://github.com/Just-NK14/music-classifier-recommender.git)
+   git clone https://github.com/Just-NK14/music-classifier-recommender.git
    ```
 
 2. Navigate to the project directory:
